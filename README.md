@@ -1,5 +1,12 @@
 ## Code your life!  👋
 
+
+![Warley´s GitHub stats](https://github-readme-stats.vercel.app/api?username=WarleyLeandro&show_icons=true&theme=radical)
+
+## Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarleyLeandro&langs_count=8)](https://github.com/WarleyLeandro/github-readme-stats)
+
 <!--
 **WarleyLeandro/WarleyLeandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
