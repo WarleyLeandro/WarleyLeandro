@@ -1,4 +1,4 @@
-## Code your life!  👋
+## Code your life! 
 
 
 ![Warley´s GitHub stats](https://github-readme-stats.vercel.app/api?username=WarleyLeandro&show_icons=true&theme=radical)
