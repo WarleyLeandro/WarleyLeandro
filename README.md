@@ -1,9 +1,11 @@
 ## Code your life! 
 
 <div> <p> Mineirinho, apaixonado por tecnologia, gestão e louco por projetos! Atualmente curso Engenharia de Software pela Puc Minas.</p>
-Sou Tech Influencer com uma comunidade de desenvolvedores com mais de 10k de membros. 
-Sou mentor e gestor de comunidade.
+<p>Sou Tech Influencer com uma comunidade de desenvolvedores com mais de 10k de membros. </p>
 </div>
+
+##
+
 ![Warley´s GitHub stats](https://github-readme-stats.vercel.app/api?username=WarleyLeandro&show_icons=true&theme=radical)
 
 ## Top languages
