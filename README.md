@@ -6,7 +6,6 @@
 
 Visite meu perfil no instagram [@engenheiro_de_software](https://www.instagram.com/engenheiro_de_software/) 
 
-Faça parte da nossa Comunidade: [Aqui](https://engenheirodesoftware.com/)
 
 ##
 
