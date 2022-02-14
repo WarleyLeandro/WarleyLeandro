@@ -2,6 +2,8 @@
 
 <div> <p> Mineirinho, apaixonado por tecnologia, gestão e louco por projetos! Atualmente curso Engenharia de Software pela Puc Minas.</p>
 <p>Sou Tech Influencer com uma comunidade de desenvolvedores com mais de 10k de membros. </p>
+  
+  <p> Faça parte da nossa comunidade vip </p>
 </div>
 
 Visite meu perfil no instagram [@engenheiro_de_software](https://www.instagram.com/engenheiro_de_software/) 
