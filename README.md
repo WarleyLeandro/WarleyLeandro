@@ -1,13 +1,14 @@
 ## Code your life! 
 
-<div> <p> Mineirinho, apaixonado por tecnologia, gestão e louco por projetos! Atualmente curso Engenharia de Software pela Puc Minas.</p>
-<p>Sou Tech Influencer com uma comunidade de desenvolvedores com mais de 10k de membros. </p>
+<div> <p> Mineirinho from Brazil, I love to work with technology, management and projects! I am currently studying Software Engineering at Puc Minas.</p>
+<p>I'm a Tech Influencer with a developer community of over 10k members. </p>
   
-  <p> Faça parte da nossa comunidade vip </p>
+  
 </div>
 
-Visite meu perfil no instagram [@engenheiro_de_software](https://www.instagram.com/engenheiro_de_software/) 
+My profile on instagram [@engenheiro_de_software](https://www.instagram.com/engenheiro_de_software/) 
 
+My channel on Youtube [Warley tech](https://www.youtube.com/@warleytech)
 
 ##
 
