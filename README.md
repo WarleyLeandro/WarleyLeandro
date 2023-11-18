@@ -8,7 +8,6 @@
 
 My profile on instagram [@engenheiro_de_software](https://www.instagram.com/engenheiro_de_software/) 
 
-My channel on Youtube [Warley tech](https://www.youtube.com/@warleytech)
 
 ##
 
