@@ -1,6 +1,6 @@
 ## Code your life! 
 
-<div> <p> Mineirinho from Brazil, I love to work with technology, management and projects! I am currently studying Software Engineering at Puc Minas.</p>
+<div> <p> Mineirinho from Brazil, I love to work with technology, management and projects! I'm Software Engineering.</p>
 <p>I'm a Tech Influencer with a developer community of over 10k members. </p>
   
   
